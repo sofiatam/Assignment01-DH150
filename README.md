@@ -13,9 +13,13 @@ Through my UX design, I hope to impact the food community by providing foodies (
 
 **Brief info about site:** Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.).
 
-**Overall evaluation:** Yelp is a practical website that is relatively easy to navigate. However, Yelp still exhibits many instances of poor user interface that hinder the user's overall experience.
-
 #### Heuristic Evaluation
+
+**Overall evaluation:** Yelp is a practical website that is relatively easy to navigate. However, Yelp still exhibits many instances of poor user interface that hinder the user's overall experience.
+Visibility of system status | Match between system and real world
+------------ | -------------
+3 | 1
+
 **1. Visibility of system status**
 > **3:** Yelp does not display information on whether a company is still in business or not without the user clicking the particular business, which is inefficient and frustrating for the user. Additionally, Yelp does not indicate whether a business is closing soon, nor does it make a businesses' hours readily visible. However, Yelp does a good job of indicating when the application is loading and processing the user's requests. There is no indication of loading status, though (like % complete, for example). Yelp should focus on displaying more relevant information, like on the status of its businesses and loading progress, for example.
 
