@@ -17,12 +17,10 @@ Through my UX design, I hope to impact the food community by providing foodies (
 
 #### Heuristic Evaluation
 **1. Visibility of system status**
-
-**3:** Yelp does not display information on whether a company is still in business or not without the user clicking the particular business, which is inefficient and frustrating for the user. Additionally, Yelp does not indicate whether a business is closing soon, nor does it make a businesses' hours readily visible. However, Yelp does a good job of indicating when the application is loading and processing the user's requests. There is no indication of loading status, though (like % complete, for example). Yelp should focus on displaying more relevant information, like on the status of its businesses and loading progress, for example.
+> **3:** Yelp does not display information on whether a company is still in business or not without the user clicking the particular business, which is inefficient and frustrating for the user. Additionally, Yelp does not indicate whether a business is closing soon, nor does it make a businesses' hours readily visible. However, Yelp does a good job of indicating when the application is loading and processing the user's requests. There is no indication of loading status, though (like % complete, for example). Yelp should focus on displaying more relevant information, like on the status of its businesses and loading progress, for example.
 
 **2. Match between system and real world**
-
-**1:** Yelp does a great job of connecting with the user by using jargon that is simple to comprehend and commonly used by its userbase. Since the website is heavily dependent on user contribution, the reviews are not filled with overcomplicated words and is created specially for other Yelp users. The terminology used must be easily digestible by the everyday Yelp user.
+> **1:** Yelp does a great job of connecting with the user by using jargon that is simple to comprehend and commonly used by its userbase. Since the website is heavily dependent on user contribution, the reviews are not filled with overcomplicated words and is created specially for other Yelp users. The terminology used must be easily digestible by the everyday Yelp user.
 
 **3. User control and freedom**
 
