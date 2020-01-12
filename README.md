@@ -8,7 +8,7 @@ Through my UX design, I hope to impact the food community by providing foodies (
 **URL:** https://yelp.com
 
 **Screenshot of website:**
-![Landing page]<img width="1440" alt="Screen Shot 2020-01-11 at 9 44 30 PM" src="https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png">
+[Landing page]<img width="1440" alt="Screen Shot 2020-01-11 at 9 44 30 PM" src="https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png">
 ![Search results]<img width="1440" alt="Screen Shot 2020-01-12 at 9 15 34 AM" src="https://user-images.githubusercontent.com/25126263/72222693-a1e95000-351c-11ea-8508-261a2a2897dc.png">
 
 **Screenshot of app:** 
