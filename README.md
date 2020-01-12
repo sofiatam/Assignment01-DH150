@@ -8,10 +8,8 @@ Through my UX design, I hope to impact the food community by providing foodies (
 **URL:** https://yelp.com
 
 **Screenshot of website:**
-[screenshot1]<img width="1440" alt="Screen Shot 2020-01-11 at 9 44 30 PM" src="https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png">
-[screenshot2]<img width="1440" alt="Screen Shot 2020-01-11 at 9 44 55 PM" src="https://user-images.githubusercontent.com/25126263/72222628-bf69ea00-351b-11ea-956e-5cd835e0353b.png">
-[screenshot3]<img width="1440" alt="Screen Shot 2020-01-11 at 9 45 14 PM" src="https://user-images.githubusercontent.com/25126263/72222629-c133ad80-351b-11ea-9adc-bead4ad7a2f4.png">
-
+[Landing page]<img width="1440" alt="Screen Shot 2020-01-11 at 9 44 30 PM" src="https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png">
+[Search results]
 **Screenshot of app:** 
 
 **Brief info about site:** Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.).
