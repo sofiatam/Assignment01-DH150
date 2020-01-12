@@ -1,18 +1,21 @@
 # Assignment01-DH150
 ### Sofia Tam
 
-### Assignment01: Heuristic Evaluation, DH 150 - Winter 2020
+#### Community I want to contribute to with my UX design
+Through my UX design, I hope to impact the food community by providing foodies (+ aspring foodies) with a seamless and efficient experience on Yelp (website and app).
 
-##### Community I want to contribute to with my UX design
-Through my UX design, I hope to impact the 
+#### Web/App I chose for my project
+URL: https://yelp.com
 
-##### Website I chose for my project
-URL: https://zara.com
-Screenshot: ![Screenshot of Zara.com](/screenshots/Screen Shot 2020-01-10 at 6.05.07 PM.png)
-Brief info about site: 
-Overall evaluation of site: 
+Screenshot of website: 
 
-##### Heuristic Evaluation
+Screenshot of app: 
+
+Brief info about site: Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.).
+
+Overall evaluation: Yelp is a practical website that is relatively easy to navigate. However, Yelp still exhibits many instances of poor user interface that hinder the user's overall experience.
+
+#### Heuristic Evaluation
 1. Visibility of system status
 
 2. Match between system and real world
