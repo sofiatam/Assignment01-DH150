@@ -8,6 +8,7 @@ Through my UX design, I hope to impact the food community by providing foodies (
 **URL:** https://yelp.com
 
 **Screenshot of website:**
+
 Landing page<img width="800" alt="Screen Shot 2020-01-11 at 9 44 30 PM" src="https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png">
 
 Search results<img width="800" alt="Screen Shot 2020-01-12 at 9 15 34 AM" src="https://user-images.githubusercontent.com/25126263/72222693-a1e95000-351c-11ea-8508-261a2a2897dc.png">
@@ -16,8 +17,7 @@ Search results<img width="800" alt="Screen Shot 2020-01-12 at 9 15 34 AM" src="h
 
 **Screenshot of app:** 
 
-
-<img width = "300" alt="IMG_1169" src="https://user-images.githubusercontent.com/25126263/72222694-a44baa00-351c-11ea-982e-17e9f1194b46.PNG">    <img width = "300" alt="IMG_AA2FB2C87F45-1" src="https://user-images.githubusercontent.com/25126263/72222711-c9d8b380-351c-11ea-9b84-0930fdd9678f.jpeg">
+Landing page <img width = "300" alt="IMG_1169" src="https://user-images.githubusercontent.com/25126263/72222694-a44baa00-351c-11ea-982e-17e9f1194b46.PNG">    Search results<img width = "300" alt="IMG_AA2FB2C87F45-1" src="https://user-images.githubusercontent.com/25126263/72222711-c9d8b380-351c-11ea-9b84-0930fdd9678f.jpeg">
 
 
 **Brief info about site:** Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.).
