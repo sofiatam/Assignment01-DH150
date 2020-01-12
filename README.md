@@ -16,8 +16,9 @@ Through my UX design, I hope to impact the food community by providing foodies (
 #### Heuristic Evaluation
 
 **Overall evaluation:** Yelp is a practical website that is relatively easy to navigate. However, Yelp still exhibits many instances of poor user interface that hinder the user's overall experience.
+
 Visibility of system status | Match between system and real world
------------- | -------------
+--------------------------- | -----------------------------------
 3 | 1
 
 **1. Visibility of system status**
