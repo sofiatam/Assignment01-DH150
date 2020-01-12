@@ -14,11 +14,10 @@ Search results<img width="800" alt="Screen Shot 2020-01-12 at 9 15 34 AM" src="h
 
 
 **Screenshot of app:** 
-Landing page
-<img width = "300" alt="IMG_1169" src="https://user-images.githubusercontent.com/25126263/72222694-a44baa00-351c-11ea-982e-17e9f1194b46.PNG">
+<img width = "300" alt="IMG_1169" src="https://user-images.githubusercontent.com/25126263/72222694-a44baa00-351c-11ea-982e-17e9f1194b46.PNG"><img width = "300" alt="IMG_AA2FB2C87F45-1" src="https://user-images.githubusercontent.com/25126263/72222711-c9d8b380-351c-11ea-9b84-0930fdd9678f.jpeg">
 
-Search results
-<img width = "300" alt="IMG_AA2FB2C87F45-1" src="https://user-images.githubusercontent.com/25126263/72222711-c9d8b380-351c-11ea-9b84-0930fdd9678f.jpeg">
+
+![alt-text-1](image1.png "title-1") ![alt-text-2](image2.png "title-2")
 
 
 **Brief info about site:** Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.).
