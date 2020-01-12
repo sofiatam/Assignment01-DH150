@@ -19,15 +19,15 @@ Through my UX design, I hope to impact the food community by providing foodies (
 
 Visibility of system status | Match between system and real world | User control and freedom | Consistency and standards
 --------------------------- | ----------------------------------- | ------------------------ | -------------------------
-            3               |                  1                  |            2             |             2
+3 | 1 | 2 | 2
 
 Error prevention | Recognition rather than recall | Flexibility and efficiency of use | Aesthetic and minimalist design
 ---------------- | ------------------------------ | --------------------------------- | -------------------------------
-       1         |               1                |                 2                 |                2
+1 | 2 | 2 | 2
 
 Help users recognize, diagnose, and recover from errors | Help and documentation
 ------------------------------------------------------- | ----------------------
-                           1                            |            3
+1 | 3
 
 
 **1. Visibility of system status**
