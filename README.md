@@ -28,6 +28,8 @@ Landing page | Search results
 ### Heuristic Evaluation
 **Overall evaluation:** Yelp is a practical website that is relatively easy to navigate. However, Yelp still exhibits many instances of poor user interface that hinder the user's overall experience.
 
+**Severity ratings (1-3):** 3 - top priority, major usability problems; 2 - mid priority, minor usability problems, 1 - low priority, effectively no usability problems
+
 Visibility of system status | Match between system and real world | User control and freedom | Consistency and standards
 --------------------------- | ----------------------------------- | ------------------------ | -------------------------
 3 | 1 | 2 | 2
