@@ -2,14 +2,15 @@
 ## Sofia Tam
 
 ### Community I want to contribute to with my UX design
-Through my UX design, I hope to impact the food community by providing foodies (+ aspring foodies) with a seamless and efficient experience on Yelp (website and app).
+Through my UX design, I hope to impact the food community by providing foodies (+ aspring foodies) with a seamless and efficient food-related experience.
 
 
-### Web/App I chose for my project
-**URL:** https://yelp.com
+### Web/Apps I chose for my project
+**URL:** https://yelp.com, https://www.opentable.com
 
 **Screenshot of website:**
 
+#### Yelp
 Landing page | Search results
 ------------ | --------------
 <img width="1440" alt="Screen Shot 2020-01-11 at 9 44 30 PM" src="https://user-images.githubusercontent.com/25126263/72222627-bd079000-351b-11ea-9a98-8870284eebef.png"> | <img width="1440" alt="Screen Shot 2020-01-12 at 9 15 34 AM" src="https://user-images.githubusercontent.com/25126263/72222693-a1e95000-351c-11ea-8508-261a2a2897dc.png">
@@ -21,8 +22,21 @@ Landing page | Search results
 <img width = "250" alt="IMG_1169" src="https://user-images.githubusercontent.com/25126263/72222694-a44baa00-351c-11ea-982e-17e9f1194b46.PNG"> | <img width = "250" alt="IMG_AA2FB2C87F45-1" src="https://user-images.githubusercontent.com/25126263/72222711-c9d8b380-351c-11ea-9b84-0930fdd9678f.jpeg">
 
 
+#### OpenTable
+Landing page | Search results
+------------ | --------------
+ | 
 
-**Brief info about site:** Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.).
+**Screenshot of app:** 
+
+Landing page | Search results
+------------ | --------------
+ | 
+ 
+ 
+
+
+**Brief info about site:** Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.). OpenTable, which is a part of Booking.com
 
 
 ### Heuristic Evaluation
