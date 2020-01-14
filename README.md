@@ -25,25 +25,24 @@ Landing page | Search results
 #### OpenTable
 Landing page | Search results
 ------------ | --------------
- | 
+<img width="1440" alt="Screen Shot 2020-01-14 at 10 06 16 AM" src="https://user-images.githubusercontent.com/25126263/72370150-7a2def80-36b6-11ea-9502-0513803859d4.png"> | <img width="1440" alt="Screen Shot 2020-01-14 at 10 06 25 AM" src="https://user-images.githubusercontent.com/25126263/72370159-7d28e000-36b6-11ea-9e31-f362dfb9f391.png">
 
 **Screenshot of app:** 
 
 Landing page | Search results
 ------------ | --------------
- | 
+![IMG_1199](https://user-images.githubusercontent.com/25126263/72370182-887c0b80-36b6-11ea-9da9-5a315092903f.PNG) | ![IMG_1201](https://user-images.githubusercontent.com/25126263/72370188-8a45cf00-36b6-11ea-9c2b-040ee4f85828.PNG)
  
  
 
 
-**Brief info about site:** Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.). OpenTable, which is a part of Booking.com
+**Brief info about sites:** Yelp is a popular platform for customers to publish reviews for different types of businesses (restaurants, shops, services, etc.). Yelp has a social component that allows people to see other's reviews, curated collections, and recommended businesses. OpenTable, which is a part of Booking.com, only operates in the food space. OpenTable provides a similar service to Yelp in that it allows for searching of restaurants, booking of reservations, and writing of reviews. The primary feature of OpenTable is to make reservations.
 
 
 ### Heuristic Evaluation
-**Overall evaluation:** Yelp is a practical website that is relatively easy to navigate. However, Yelp still exhibits many instances of poor user interface that hinder the user's overall experience.
-
 **Severity ratings (1-3):** 3 - top priority, major usability problems; 2 - mid priority, minor usability problems, 1 - low priority, effectively no usability problems
 
+#### Yelp
 Visibility of system status | Match between system and real world | User control and freedom | Consistency and standards
 --------------------------- | ----------------------------------- | ------------------------ | -------------------------
 3 | 1 | 2 | 2
@@ -57,11 +56,31 @@ Help users recognize, diagnose, and recover from errors | Help and documentation
 1 | 3
 
 
+#### OpenTable
+Visibility of system status | Match between system and real world | User control and freedom | Consistency and standards
+--------------------------- | ----------------------------------- | ------------------------ | -------------------------
+ |  |  | 
+
+Error prevention | Recognition rather than recall | Flexibility and efficiency of use | Aesthetic and minimalist design
+---------------- | ------------------------------ | --------------------------------- | -------------------------------
+ |  |  | 
+
+Help users recognize, diagnose, and recover from errors | Help and documentation
+------------------------------------------------------- | ----------------------
+ | 
+
+
 **1. Visibility of system status**
+#### Yelp
 > **3:** Yelp does not display information on whether a company is still in business or not without the user clicking the particular business, which is inefficient and frustrating for the user. Additionally, Yelp does not indicate whether a business is closing soon, nor does it make a businesses' hours readily visible. However, Yelp does a good job of indicating when the application is loading and processing the user's requests. There is no indication of loading status, though (like % complete, for example). Yelp should focus on displaying more relevant information, like on the status of its businesses and loading progress, for example.
+#### OpenTable
+> **2:** Unlike Yelp, OpenTable filters by time, so OpenTable only displays restaurants that are open (and in business) near or around that time. Like Yelp, OpenTable also does not indicate loading status when loading search results. OpenTable also does a good job of indicating which time slots are unavailable for reservations by coloring those blocks in gray, and leaving open reservations in red.
 
 **2. Match between system and real world**
+#### Yelp
 > **1:** Yelp does a great job of connecting with the user by using jargon that is simple to comprehend and commonly used by its userbase. Since the website is heavily dependent on user contribution, the reviews are not filled with overcomplicated words and is created specially for other Yelp users. The terminology used must be easily digestible by the everyday Yelp user.
+#### OpenTable
+> 
 
 **3. User control and freedom**
 > **2:** Yelp does not have an undo feature in its search feature. Yelp also lacks a "clear" option for its search filters. It is not clear how to undo filters that were chosen by mistake. Refining choices in general could use more improvement. Yelp does a good job of allowing users to search by a map, which gives the user more freedom in their searches. Again, though, there is no way to undo the map if the user accidentally zooms away/too far from their point of interest.
@@ -86,3 +105,6 @@ Help users recognize, diagnose, and recover from errors | Help and documentation
 
 **10. Help and documentation**
 > **3:** Yelp does not have an easily accessible "Help" or "FAQs" section. Only when the user makes an explicit error are they able to find concrete steps on how to correct the issue at hand. Although the site is relatively easy to navigate, it is very difficult to find help if the user needs it. At the very bottom of Yelp's website, there is a "Support" hyperlink that directs users to their "Support Center." This section is difficult to locate, and I could not even find it upon first look. On the mobile app, however, it is significantly easier to find the "Support Center."
+
+
+**Overall evaluation:** Yelp is a practical website that is relatively easy to navigate. Users are logically able to follow A to B to reach their end goal, amidst the usability errors described above. Yelp still exhibits many instances of poor user interface that hinder the user's overall experience. OpenTable, on the otherhand, is incredibly easy to use. OpenTable has great usability and is incredibly easy for new users to grasp. There are only a few instances of poor user interface on OpenTable.
